@@ -84,7 +84,7 @@ Become a highly skilled software developer.
 
 ### Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark"/>
 
 </div>
 
